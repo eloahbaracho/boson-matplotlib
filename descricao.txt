@@ -1,0 +1,2 @@
+pyplot = interface para criar gráficos de forma simples
+menos verbosa, mas nem sempre não tão flexível.
